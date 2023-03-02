@@ -1,47 +1,6 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "id": "8fa527ef",
-   "metadata": {},
-   "source": [
-    "## 0. Install and Import Dependencies"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "650971db",
-   "metadata": {},
-   "source": [
-    "## 1. Make Detections"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "50a5e502",
-   "metadata": {},
-   "source": [
-    "## 2. Determining Joints\n",
-    "<img src=\"https://i.imgur.com/3j8BPdc.png\" style=\"height:300px\">"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "493c9669",
-   "metadata": {},
-   "source": [
-    "## 3. Calculate Angles"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "2031b2ba",
-   "metadata": {},
-   "source": [
-    "## 4. Curl Counter"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 1,
    "id": "a75accb6",
@@ -169,38 +128,6 @@
     "    cap.release()\n",
     "    cv2.destroyAllWindows()"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "e819ebe1",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "4131388a",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "b797e217",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "58dc4d8e",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
